@@ -1,0 +1,44 @@
+research: 
+-   name: STR_MEDI_KIT
+    cost: 250
+    points: 20
+    dependencies:
+    - STR_EXAMINATION_ROOM
+    - STR_ALIEN_SURGERY
+    - STR_ELERIUM_115
+-   name: STR_ALLOY_VEST
+    cost: 150
+    points: 20
+    dependencies:
+    - STR_ALIEN_ALLOYS
+-   name: STR_PERSONAL_ARMOR
+    cost: 400
+    points: 20
+    dependencies:
+    - STR_ALLOY_VEST
+    - STR_ELERIUM_115
+-   name: STR_GRAVMODULE_ARMOR
+    cost: 400
+    points: 10
+    dependencies:
+    - STR_UFO_POWER_SOURCE
+-   name: STR_FLYING_SUIT
+    cost: 600
+    points: 10
+    dependencies:
+    - STR_PERSONAL_ARMOR
+    - STR_GRAVMODULE_ARMOR
+-   name: STR_POWER_SUIT
+    cost: 600
+    points: 20
+    dependencies:
+    - STR_PERSONAL_ARMOR
+    - STR_UFO_CONSTRUCTION
+-   name: STR_MIND_SUIT
+    cost: 1000
+    points: 30
+    dependencies:
+    - STR_PERSONAL_ARMOR
+    - STR_UFO_CONSTRUCTION
+    - STR_PSI_LAB
+

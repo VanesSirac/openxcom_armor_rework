@@ -1,0 +1,271 @@
+armors: 
+-   type: STR_NONE_UC
+    spriteSheet: XCOM_0.PCK
+    spriteInv: MAN_0
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    corpseBattle:
+    - STR_CORPSE
+    storeItem: STR_NONE
+    weight: 0
+    frontArmor: 10
+    sideArmor: 8
+    rearArmor: 6
+    underArmor: 6
+    damageModifier:
+    - 0.8
+    - 0.8
+    - 0.8
+    - 0.8
+    - 0.8
+    - 0.8
+    - 0.8
+    - 0.8
+    - 0.5
+    - 1
+    loftempsSet: [3]
+-   type: STR_ALLOY_VEST_UC
+    spriteSheet: XCOM_11.PCK
+    spriteInv: MAN_11
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    corpseBattle:
+    - STR_ALLOY_VEST_CORPSE
+    storeItem: STR_ALLOY_VEST
+    weight: 0
+    frontArmor: 15
+    sideArmor: 12
+    rearArmor: 9
+    underArmor: 9
+    damageModifier:
+    - 0.6
+    - 0.6
+    - 1
+    - 0.6
+    - 0.6
+    - 0.6
+    - 0.6
+    - 0.6
+    - 0.6
+    - 1
+    loftempsSet: [3]
+-   type: STR_GRAVMODULE_ARMOR_UC
+    spriteSheet: XCOM_9.PCK
+    spriteInv: MAN_9
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    corpseBattle:
+    - STR_GRAVMODULE_ARMOR_CORPSE
+    storeItem: STR_GRAVMODULE_ARMOR
+    weight: 0
+    stats:
+        tu: 15
+        stamina: 15
+    frontArmor: 10
+    sideArmor: 8
+    rearArmor: 6
+    underArmor: 6
+    movementType: 1
+    damageModifier:
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0.5
+    - 1
+    loftempsSet: [3]
+-   type: STR_PERSONAL_ARMOR_UC
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    weight: 0
+    frontArmor: 20
+    sideArmor: 17
+    rearArmor: 13
+    underArmor: 13
+    damageModifier:
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    loftempsSet: [3]
+-   type: STR_FLYING_SUIT_UC
+    spriteSheet: XCOM_18.PCK
+    spriteInv: MAN_18
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    corpseBattle:
+    - STR_FLYING_SUIT_CORPSE
+    storeItem: STR_FLYING_SUIT
+    weight: 0
+    stats:
+        tu: 5
+        stamina: 5
+    frontArmor: 20
+    sideArmor: 17
+    rearArmor: 13
+    underArmor: 13
+    movementType: 1
+    damageModifier:
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    - 0.45
+    loftempsSet: [3]
+-   type: CIVM_ARMOR
+    spriteInv: MAN_20
+    damageModifier:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 0.4
+-   type: STR_POWER_SUIT_UC
+    spriteSheet: BLUE.PCK
+    spriteInv: MAN_BLUE
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    weight: 0
+    stats:
+        strength: 10
+    frontArmor: 25
+    sideArmor: 20
+    rearArmor: 16
+    underArmor: 16
+    damageModifier:
+    - 0.4
+    - 0.4
+    - 0
+    - 0.6
+    - 0.4
+    - 0.4
+    - 0.4
+    - 0.4
+    - 0.6
+    - 0
+    loftempsSet: [3]
+-   type: STR_MIND_SUIT_UC
+    spriteSheet: VERDE.PCK
+    spriteInv: MAN_GREEN
+    spriteFaceGroup: 6
+    spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163]
+    spriteHairGroup: 9
+    spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166]
+    corpseBattle:
+    - STR_MIND_SUIT_CORPSE
+    storeItem: STR_MIND_SUIT
+    weight: 0
+    stats:
+        psiStrength: 25
+        psiSkill: -10
+        reactions: -10
+    frontArmor: 25
+    sideArmor: 20
+    rearArmor: 16
+    underArmor: 16
+    damageModifier:
+    - 0.5
+    - 0.5
+    - 0
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.6
+    - 0
+    loftempsSet: [3]
+-   type: TANK_ARMOR
+    frontArmor: 40
+    sideArmor: 33
+    rearArmor: 25
+    underArmor: 25
+    damageModifier:
+    - 0.8
+    - 0.8
+    - 0
+    - 0.6
+    - 0.8
+    - 0.8
+    - 0
+    - 0.8
+    - 0.8
+    - 0
+    size: 2
+    allowInv: false
+    loftempsSet: [92, 89, 90, 91]
+-   type: ALLOY_TANK_ARMOR
+    spriteSheet: TANKS.PCK
+    corpseBattle:
+    - TANK_CORPSE_1
+    - TANK_CORPSE_2
+    - TANK_CORPSE_3
+    - TANK_CORPSE_4
+    frontArmor: 40
+    sideArmor: 33
+    rearArmor: 25
+    underArmor: 25
+    drawingRoutine: 2
+    damageModifier:
+    - 0.7
+    - 0.7
+    - 0
+    - 0.6
+    - 0.7
+    - 0.7
+    - 0
+    - 0.7
+    - 0.7
+    - 0
+    size: 2
+    allowInv: false
+    loftempsSet: [92, 89, 90, 91]
+-   type: HOVERTANK_ARMOR
+    frontArmor: 40
+    sideArmor: 33
+    rearArmor: 25
+    underArmor: 25
+    damageModifier:
+    - 0.65
+    - 0.65
+    - 0
+    - 0.65
+    - 0.65
+    - 0.65
+    - 0
+    - 0.65
+    - 0.65
+    - 0
+    size: 2
+    allowInv: false

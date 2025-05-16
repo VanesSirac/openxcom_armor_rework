@@ -1,0 +1,105 @@
+manufacture: 
+-   name: STR_ALLOY_VEST
+    category: STR_PERSONAL_ARMOR
+    requires:
+    - STR_ALLOY_VEST
+    space: 5
+    time: 250
+    cost: 20000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 5
+    listOrder: 2690
+-   name: STR_PERSONAL_ARMOR
+    category: STR_PERSONAL_ARMOR
+    requires:
+    - STR_PERSONAL_ARMOR
+    space: 5
+    time: 600
+    cost: 55000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 10
+        STR_ELERIUM_115: 2
+-   name: STR_GRAVMODULE_ARMOR
+    category: STR_PERSONAL_ARMOR
+    requires:
+    - STR_GRAVMODULE_ARMOR
+    space: 5
+    time: 400
+    cost: 50000
+    requiredItems:
+        STR_ELERIUM_115: 3
+    listOrder: 2609
+-   name: STR_FLYING_SUIT
+    category: STR_PERSONAL_ARMOR
+    requires:
+    - STR_FLYING_SUIT
+    space: 5
+    time: 800
+    cost: 85000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 10
+        STR_ELERIUM_115: 6
+    listOrder: 2709
+-   name: STR_POWER_SUIT
+    category: STR_PERSONAL_ARMOR
+    requires:
+    - STR_POWER_SUIT
+    space: 10
+    time: 1200
+    cost: 125000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 16
+        STR_ELERIUM_115: 8
+    listOrder: 2811
+-   name: STR_MIND_SUIT
+    category: STR_PERSONAL_ARMOR
+    requires:
+    - STR_MIND_SUIT
+    space: 10
+    time: 1600
+    cost: 165000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 16
+        STR_ELERIUM_115: 12
+    listOrder: 2813
+
+-   name: STR_TANK_LASER_CANNON
+    requires:
+    - STR_LASER_CANNON
+    - STR_ALIEN_ALLOYS
+    space: 20
+    time: 900
+    cost: 330000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 15
+-   name: STR_HOVERTANK_PLASMA
+    space: 20
+    time: 1200
+    cost: 450000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 24
+        STR_ELERIUM_115: 30
+-   name: STR_HOVERTANK_LAUNCHER
+    space: 20
+    time: 1200
+    cost: 420000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 25
+        STR_ELERIUM_115: 25
+-   name: STR_HOVERTANK_LAUNCHER
+    space: 5
+    time: 300
+    cost: 15000
+    requiredItems:
+        STR_ALIEN_ALLOYS: 4
+        STR_ELERIUM_115: 3
+        
+-   name: STR_MEDI_KIT
+    category: STR_EQUIPMENT
+    requires:
+    - STR_MEDI_KIT
+    space: 3
+    time: 420
+    cost: 28000
+    requiredItems:
+        STR_ELERIUM_115: 3

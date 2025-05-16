@@ -1,0 +1,322 @@
+extraSprites:
+
+  - type: BIGOBS.PCK
+    files:
+      280: Resources/Medipack/BigMedipack.gif
+      
+      282: Resources/Armors/Alloy_Vest/bigobs_ALLOY_VEST_CORPSE.gif
+      283: Resources/Armors/GravModule/CorpseGravModule.png
+      284: Resources/Armors/JumpArmor/Jump_Corpse.png
+      285: Resources/Armors/Colored_Power_Suit/BLUE/Blue_Corpse_Inv.gif
+      286: Resources/Armors/Colored_Power_Suit/GREEN/Green_Corpse_Inv.gif
+      287: Resources/Armors/Colored_Power_Suit/RED/Red_Corpse_Inv.gif
+      288: Resources/Armors/Colored_Power_Suit/PURPLE/Purple_Corpse_Inv.gif
+      
+  - type: FLOOROB.PCK
+    files:      
+      280: Resources/Medipack/FloorMedipack.gif
+      
+      282: Resources/Armors/Alloy_Vest/floorob_ALLOY_VEST_CORPSE.gif
+      283: Resources/Armors/GravModule/Floor_GravModule.png
+      284: Resources/Armors/JumpArmor/Floor_JumpArmor.png
+      285: Resources/Armors/Colored_Power_Suit/BLUE/Blue_Corpse.png
+      286: Resources/Armors/Colored_Power_Suit/GREEN/Green_Corpse.png
+      287: Resources/Armors/Colored_Power_Suit/RED/Red_Corpse.png
+      288: Resources/Armors/Colored_Power_Suit/PURPLE/Purple_Corpse.gif
+      
+  - type: HANDOB.PCK
+    height: 40
+    width: 256
+    subX: 32
+    subY: 40
+    files:        
+      280: Resources/Medipack/HandOb_Medipack.png
+      
+  - type: MAN_11M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11m0.gif
+  - type: MAN_11M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11m1.gif
+  - type: MAN_11M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11m2.gif
+  - type: MAN_11M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11m3.gif
+  - type: MAN_11F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11f0.gif
+  - type: MAN_11F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11f1.gif
+  - type: MAN_11F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11f2.gif
+  - type: MAN_11F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Alloy_Vest/Inventory/man_11f3.gif      
+  - type: XCOM_11.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Armors/Alloy_Vest/AlloyPlating.png
+
+  - type: MAN_9M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9M0.png
+  - type: MAN_9M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9M1.png
+  - type: MAN_9M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9M2.png
+  - type: MAN_9M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9M3.png
+  - type: MAN_9F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9F0.png
+  - type: MAN_9F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9F1.png
+  - type: MAN_9F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9F2.png
+  - type: MAN_9F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/GravModule/Inventory/MAN_9F3.png
+  - type: XCOM_9.PCK
+    width: 1024
+    height: 360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Armors/GravModule/GravModule.png
+
+  - type: MAN_18M0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18m0.png
+  - type: MAN_18M1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18m1.png
+  - type: MAN_18M2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18m2.png
+  - type: MAN_18M3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18m3.png
+  - type: MAN_18F0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18f0.png
+  - type: MAN_18F1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18f1.png
+  - type: MAN_18F2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18f2.png
+  - type: MAN_18F3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/JumpArmor/Inventory/man_18f3.png
+  - type: XCOM_18.PCK
+    width: 1024
+    height: 360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Armors/JumpArmor/jump.png
+  
+  - type: MAN_BLUEF0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_f0.gif
+  - type: MAN_BLUEF1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_f1.gif
+  - type: MAN_BLUEF2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_f2.gif
+  - type: MAN_BLUEF3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_f3.gif
+  - type: MAN_BLUEM0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_m0.gif
+  - type: MAN_BLUEM1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_m1.gif
+  - type: MAN_BLUEM2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_m2.gif
+  - type: MAN_BLUEM3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE/blue_m3.gif
+  - type: BLUE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/Armors/Colored_Power_Suit/BLUE.png
+
+  - type: MAN_GREENF0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_f0.gif
+  - type: MAN_GREENF1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_f1.gif
+  - type: MAN_GREENF2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_f2.gif
+  - type: MAN_GREENF3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_f3.gif
+  - type: MAN_GREENM0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_m0.gif
+  - type: MAN_GREENM1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_m1.gif
+  - type: MAN_GREENM2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_m2.gif
+  - type: MAN_GREENM3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN/green_m3.gif
+  - type: VERDE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/Armors/Colored_Power_Suit/GREEN.png
+
+  - type: MAN_REDF0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_f0.gif
+  - type: MAN_REDF1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_f1.gif
+  - type: MAN_REDF2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_f2.gif
+  - type: MAN_REDF3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_f3.gif
+  - type: MAN_REDM0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_m0.gif
+  - type: MAN_REDM1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_m1.gif
+  - type: MAN_REDM2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_m2.gif
+  - type: MAN_REDM3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED/red_m3.gif
+  - type: RED.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/Armors/Colored_Power_Suit/RED.png
+
+  - type: MAN_PURPLEF0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_f0.gif
+  - type: MAN_PURPLEF1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_f1.gif
+  - type: MAN_PURPLEF2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_f2.gif
+  - type: MAN_PURPLEF3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_f3.gif
+  - type: MAN_PURPLEM0.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_m0.gif
+  - type: MAN_PURPLEM1.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_m1.gif
+  - type: MAN_PURPLEM2.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_m2.gif
+  - type: MAN_PURPLEM3.SPK
+    singleImage: true
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE/purple_m3.gif
+  - type: PURPLE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/Armors/Colored_Power_Suit/PURPLE.png
+  
+  - type: ALLOYTANKS.PCK
+    width: 256
+    height: 640
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/Armors/AlloyTanks/ALLOY_TANKS.PNG
+      

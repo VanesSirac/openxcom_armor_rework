@@ -1,0 +1,6 @@
+name: "Meson's Armor Rework"
+version: "1.0"
+author: "Mesonchan"
+description: "Reworks how armor works in Openxcom, making damage much more consistent"
+id: meson-armor-rework
+master: xcom1
