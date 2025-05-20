@@ -1,0 +1,48 @@
+ufopaedia:
+  - id: STR_NONE_UC
+    title: STR_COVERALL_UC
+    type_id: 5
+    section: STR_WEAPONS_AND_EQUIPMENT
+    listOrder: 1690
+    text: STR_COVERALL_UFOPEDIA
+  - id: STR_ALLOY_VEST_UC
+    type_id: 5
+    requires:
+      - STR_ALLOY_VEST
+    section: STR_WEAPONS_AND_EQUIPMENT
+    text: STR_ALLOY_VEST_UFOPEDIA
+    listOrder: 1699    
+  - id: STR_GRAVMODULE_ARMOR_UC
+    type_id: 5
+    requires:
+      - STR_GRAVMODULE_ARMOR
+    section: STR_WEAPONS_AND_EQUIPMENT
+    text: STR_GRAVMODULE_ARMOR_UFOPEDIA
+    listOrder: 1702
+  - id: STR_FLYING_SUIT_UC
+    type_id: 5
+    requires:
+      - STR_FLYING_SUIT
+    section: STR_WEAPONS_AND_EQUIPMENT
+    text: STR_FLYING_SUIT_UFOPEDIA
+    listOrder: 1703
+  - id: STR_POWER_SUIT_UC
+    type_id: 5
+    requires:
+      - STR_POWER_SUIT
+    section: STR_WEAPONS_AND_EQUIPMENT
+    text: STR_POWER_SUIT_UFOPEDIA
+    listOrder: 1706
+  - id: STR_MIND_SUIT_UC
+    type_id: 5
+    requires:
+      - STR_MIND_SUIT
+    section: STR_WEAPONS_AND_EQUIPMENT
+    text: STR_MIND_SUIT_UFOPEDIA
+    listOrder: 1708
+  
+  - id: STR_MEDI_PACK
+    type_id: 4
+    section: STR_WEAPONS_AND_EQUIPMENT
+    text: STR_MEDI_PACK_UFOPEDIA
+    listOrder: 4390

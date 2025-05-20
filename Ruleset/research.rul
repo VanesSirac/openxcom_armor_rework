@@ -1,11 +1,34 @@
 research: 
--   name: STR_MEDI_KIT
-    cost: 250
+-   name: STR_ADVANCED_MEDICINE 
+    cost: 100
     points: 20
     dependencies:
     - STR_EXAMINATION_ROOM
     - STR_ALIEN_SURGERY
-    - STR_ELERIUM_115
+    - STR_ALIEN_FOOD
+    getOneFree:
+    - STR_MEDI_KIT
+-   name: STR_MEDI_KIT
+    cost: 250
+    points: 20
+    dependencies:
+    - STR_ADVANCED_MEDICINE
+    - STR_SECTOID_MEDIC
+    - STR_SNAKEMAN_MEDIC
+    - STR_FLOATER_MEDIC
+-   name: STR_SECTOID_MEDIC
+    unlocks:
+    - STR_ALIEN_ORIGINS
+    - STR_MEDI_KIT
+-   name: STR_SNAKEMAN_MEDIC
+    unlocks:
+    - STR_ALIEN_ORIGINS
+    - STR_MEDI_KIT
+-   name: STR_FLOATER_MEDIC
+    unlocks:
+    - STR_ALIEN_ORIGINS
+    - STR_MEDI_KIT
+
 -   name: STR_ALLOY_VEST
     cost: 150
     points: 20
